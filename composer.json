@@ -1,0 +1,17 @@
+{
+  "name": "helsingborg-stad/wpmu-accordion-expand-plus",
+  "homepage": "https://github.com/helsingborg-stad/wpmu-accordion-expand-plus",
+  "description": "Replaces expand arrow with a plus-circle",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "authors": [
+        {
+            "name": "Sebastian Thulin",
+            "email": "sebastian.thulin@helsingborg.se"
+        }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "composer/installers": "~1.0"
+  }
+}
